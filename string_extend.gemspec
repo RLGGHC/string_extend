@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{string_extend}
-  s.version = '0.0.1'
+  s.version = '0.0.3'
   s.summary = %q{string_extend adds useful features to the String class}
   s.require_paths = ["lib"]
   s.files = ['lib/string_extend.rb']
